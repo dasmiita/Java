@@ -1,4 +1,4 @@
-// Defining a class
+// How to define a class and create its object in Java
 class Car {
     // Properties (variables)
     String brand;
