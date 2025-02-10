@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//this is fun 
 public class NextLineTrap {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
